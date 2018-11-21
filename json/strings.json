@@ -10,7 +10,19 @@
 	"PaymentAndDeliveryButton": "Betalning och leverans",
 	"TermsOfServiceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed.",
 	"TermsOfPurchaseText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed.",
-	"PaymentAndDeliveryText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed."	
+	"PaymentAndDeliveryText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed.",	
+	"CAROUSEL1_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL1_NAME": "John Doe",
+	"CAROUSEL2_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL2_NAME": "John Doe",
+	"CAROUSEL3_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL3_NAME": "John Doe",
+	"CAROUSEL4_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL4_NAME": "John Doe",
+	"CAROUSEL5_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL5_NAME": "John Doe",
+	"CAROUSEL6_TEXT": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",                   
+	"CAROUSEL6_NAME": "John Doe"	
 }
 
   
