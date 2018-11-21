@@ -1,20 +1,8 @@
 {
-	{
-		"Slogan": "Lorem Ipsum"
-	},
-	{
-		"Slogan2": "dolor sit amet"
-	},
-	{
-		"DiagnoseButton": "Diagnos"
-	},
-	{
-		"MenuInfo": "Så funkar det"
-	},
-	{
-		"MenuFaq": "Frågor och Svar"
-	},
-	{
-		"MenuAbout": "Om Oss"
-	}
+	"Slogan": "Lorem Ipsum",
+	"Slogan2": "dolor sit amet",
+	"DiagnoseButton": "Diagnos",
+	"MenuInfo": "Så funkar det",
+	"MenuFaq": "Frågor och Svar",
+	"MenuAbout": "Om Oss"
 }
