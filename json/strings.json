@@ -4,5 +4,13 @@
 	"DiagnoseButton": "Diagnos",
 	"MenuInfo": "Så funkar det",
 	"MenuFaq": "Frågor och Svar",
-	"MenuAbout": "Om Oss"
+	"MenuAbout": "Om Oss",
+	"TermsOfServiceButton": "Användningsvillkor ",
+	"TermsOfPurchaseButton": "Köpvillkor"
+	"PaymentAndDeliveryButton": "Betalning och leverans"
+	"TermsOfServiceText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed.",
+	"TermsOfPurchaseText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed.",
+	"PaymentAndDeliveryText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sagittis nisl rhoncus mattis rhoncus urna neque. Egestas integer eget aliquet nibh praesent tristique. Viverra vitae congue eu consequat ac felis donec et. Cras pulvinar mattis nunc sed."	
 }
+
+  
